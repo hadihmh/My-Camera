@@ -1,17 +1,41 @@
-# my_test
+# My Camera
+An application for testing Camera<br />
+![camera](https://github.com/hadihmh/My-Camera/blob/main/my_camera.gif)<br />
 
-A new Flutter project.
 
-## Getting Started
+# Features
+adding flash control<br />
+adding filter on camera<br />
+adding adding size of camera<br />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# My-Camera
+
+# Getting Started:
+you can download the source or fork it in android studio or any other Idea<br />  
+if you don't have Flutter you need to download that so Idea can run the source code<br />
+if you don't have it you need to follow this :https://docs.flutter.dev/get-started/install<br />
+
+
+# Technical details
+in this section we talk mainly about Technical details of project<br />
+The application is built using the Flutter framework<br />
+
+
+
+## Structure
+Folders By Type/Domain
+## State management
+GetX
+
+
+
+## Provide step-by-step instructions on how to install and set up your project. Be sure to include code snippets and commands where necessary.
+
+1. Clone the repository:
+git clone " https://github.com/hadihmh/My-Camera.git "
+
+2. Rub " flutter pub get "
+
+3. run " flutter run "
